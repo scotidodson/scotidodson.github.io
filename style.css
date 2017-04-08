@@ -1,0 +1,76 @@
+html{
+	background-color: #000034;
+	position: relative;
+}
+body{
+	width: 80%;
+	min-width: 600px;
+	background-color: white;
+	margin: 0px auto;
+	min-height: 100%;
+	line-height: 1.2;
+	padding-bottom: 200px;
+	padding-left: 40px;
+	padding-right: 40px;
+	position: relative;
+
+}
+
+h1 {
+	font-size: 48px;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+header{
+	font-family: Verdana, Tahoma, Arial;
+	color: maroon;
+	border-bottom: dashed;
+	border-color: black;
+	border-width: 1px;
+	line-height: 1.1;
+	text-align: center;
+	padding-top: 20px;
+}
+
+p{
+	font-family:Verdana, Tahoma, Arial;
+	text-indent: 60px;
+}
+
+.center{
+	text-align: center;
+	text-indent: 0;
+}
+
+blockquote{
+	text-align: center;
+	text-indent: 0;
+}
+
+ul{
+	font-family: Verdana, Tahoma, Arial;
+	
+}
+
+.footer{
+	color:maroon;
+	font-family: Times, serif;
+	text-align: center;
+	border-top-style: dashed;
+	border-top-width: 1px;
+	font-size: 12px;
+	padding: 10px;
+}
+
+img{
+	display: block;
+	margin: auto;
+	width: 300px;
+	margin: 0px auto;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 10px 1px #999;
+}
